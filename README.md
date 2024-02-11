@@ -10,3 +10,10 @@ Just a [SoLoud](http://soloud-audio.com) C# bindings from the glue code
 
 `dotnet pack Sharploud.csproj -p:NuspecFile=.nuspec`
 
+### Hot to use
+
+```csharp
+using SoLoud;
+```
+
+and read the SoLoud documentation or source code. enjoy!

@@ -2,12 +2,13 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
     <id>Sharploud</id>
-    <version>0.0.1</version>
+    <version>2020.2.7</version>
     <authors>dungeonneko</authors>
     <owners>dungeonneko</owners>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Just a SoLoud C# bindings from the glue code</description>
     <license type="expression">MIT</license>
+    <projectUrl>https://github.com/dungeonneko/Sharploud</projectUrl>
   </metadata>
   <files>
     <file src="./bin/Release/netstandard2.1/Sharploud.dll" target="./lib/netstandard2.1" />
